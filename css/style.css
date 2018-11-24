@@ -1,0 +1,20 @@
+body {
+  font-family: 'Neuton', serif;
+  padding: 10%;
+  color: black;
+  background-color: lightBlue;
+
+}
+
+#content{
+  width: 340px;
+  background-color: white;
+  border: 2.5px solid black;
+  border-radius: 50px;
+  padding: 10px
+}
+
+#title{
+  font-family: 'Concert One', cursive;
+}
+
